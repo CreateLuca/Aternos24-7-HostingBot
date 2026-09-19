@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TimmiSMP1.aternos.me:61013",
+    "ip": "TimmiSMP1.aternos.me",
     "port": 61013,
     "version": "",
     "try-creative": false
